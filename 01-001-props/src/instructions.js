@@ -2,8 +2,8 @@ import React from 'react';
 
 export default () => {
     return (
-        <div className="ui grid container ">
-            <div className="twelve wide column">
+        <div className="ui grid container">
+            <div className="sixteen wide column">
                 <p>1 - Vediamo il nostro nuovo css framework... <b>semantic ui</b></p>
                 <p>2- <b>Creiamo una struttura di commenti</b> - Vediamo la struttura HTML dalla documentazione di semantic ui e ricreiamo un commento in <code>App</code></p>
                 <p>3- <b>Usiamo Faker.js</b> - Super utile per il vostro futuro! ... <code>npm i -s faker</code></p>
@@ -20,8 +20,6 @@ export default () => {
                         <li>Invece di caricare App come componente principale dell'app in <code>index.js</code>, importa <code>Esercizio</code> da <code>esercizio1.js</code></li>
                         <li>Usa le props per dinamicizzare il componente message</li>
                     </ul>
-                </p>
-                <p>
                     12- <b>Esercizio!</b> <br />
                     <ul>
                         <li>Invece di caricare App come componente principale dell'app in <code>index.js</code>, importa <code>Esercizio</code> da <code>esercizio2.js</code></li>
