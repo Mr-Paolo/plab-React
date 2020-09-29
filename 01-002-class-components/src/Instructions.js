@@ -4,6 +4,7 @@ export default () => {
     return (
         <div className="ui grid container ">
             <div className="sixteen wide column">
+                <h2>1- Introduzione</h2>
                 <p>L'applicativo avrà questa logica:</p>
                 <ul>
                     <li>
